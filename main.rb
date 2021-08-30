@@ -1,4 +1,4 @@
 require 'oj'
-require_relative 'base'
-require_relative 'album'
-require_relative 'group'
+require_relative 'classes/base'
+require_relative 'classes/album'
+require_relative 'classes/group'
